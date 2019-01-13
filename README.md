@@ -1,2 +1,3 @@
 # hello-world
-just have a try to improve myself
+Just have a try to improve myself.
+and I will get it.
