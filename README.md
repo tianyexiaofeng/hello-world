@@ -1,3 +1,3 @@
 # hello-world
-just have a try to improve myself
-I will get it.
+Just have a try to improve myself.
+and I will get it.
